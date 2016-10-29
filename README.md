@@ -2,6 +2,10 @@
 
 > Translates the content or src of scirpt tags with type attributes of 'text/markdown' or 'text/md' from markdown into html.
 
+## Demo
+
+[Live demo](https://plnkr.co/edit/BM9kv3?p=preview)
+
 ## Install
 ``` bash
 npm install rosetta-markdown --save
@@ -41,6 +45,7 @@ You can access it to do things like syntax-highlighting using [highlight.js](htt
 
 ## Contribute
 ``` bash
+npm install
 npm run build
 ```
 This just webpackifies stuff at the moment.
