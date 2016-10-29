@@ -1,0 +1,17 @@
+{
+  "name": "rosetta-markdown",
+  "version": "1.0.0",
+  "description": "Translates the content or src of scirpt tags with type attributes of 'text/markdown' or 'text/md' from markdown into html",
+  "main": "rosetta-markdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "Adam Carheden",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "marked": "^0.3.6",
+    "rosetta-tohtml": "^1.0.0"
+  },
+  "dependencies": {}
+}
