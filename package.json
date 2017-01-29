@@ -1,6 +1,6 @@
 {
   "name": "rosetta-markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translates the content or src of scirpt tags with type attributes of 'text/markdown' or 'text/md' from markdown into html",
   "main": "rosetta-markdown.js",
   "scripts": {
@@ -13,9 +13,9 @@
     "marked": "^0.3.6",
     "rosetta-tohtml": "^1.0.0"
   },
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/adamcarheden/rosetta-markdown"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamcarheden/rosetta-markdown"
+  },
   "dependencies": {}
 }
